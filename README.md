@@ -1,2 +1,3 @@
 # NewsCloud
-News Cloud
+News Cloud App
+
